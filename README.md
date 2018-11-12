@@ -4,8 +4,8 @@ Adds Masked input to ACF.
 
 ## Links
 
-* jquery.inputmask.bundle.js[https://github.com/RobinHerbots/Inputmask] by Robin Herbots[https://github.com/RobinHerbots]
-* Advanced Custom Fields[https://www.advancedcustomfields.com/] by Elliot Condon[https://github.com/elliotcondon]
+* [jquery.inputmask.bundle.js](https://github.com/RobinHerbots/Inputmask) by [Robin Herbots](https://github.com/RobinHerbots)
+* [Advanced Custom Fields](https://www.advancedcustomfields.com/) by [Elliot Condon](https://github.com/elliotcondon)
 
 ## Compatibility
 
@@ -19,7 +19,13 @@ This ACF field type is compatible with:
 3. Create a new field via ACF and select the Mask Field Input type
 4. Read the description above for usage instructions
 
-## Changelog
+## Authors
+
+* **Alejandro Lucena Archilla** - [www.comerline.es](http://www.comerline.es/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ### Version 1.0.0 - Not tracked
 - Initial Commit
